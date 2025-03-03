@@ -1,15 +1,18 @@
-# theme-park
+# theme-park🛝🎡🎢
 a basic php and html based web project 
 
 this project contains html and php backend based files , security by cloudflare , and hosted for free on infinityfree.com
 
-domain for this prject was brought from godaddy.
+domain for this project was brought from godaddy.
+
+
 
 🌍 HTML / PHP Pages
 1️⃣ index.php (Homepage)
 2️⃣ profile.php (User Dashboard)
 3️⃣ login.php (Login Page)
-4️⃣ signup.php (Signup Page)
+4️⃣ signup![Uploading RideThemeParkGIF.gif…]()
+.php (Signup Page)
 5️⃣ sidebar.php (Sidebar for navigation)
 6️⃣ Ride Scheduling and Management.php
 7️⃣ Ticket Booking and Payment.php
