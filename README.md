@@ -1,4 +1,4 @@
-# theme-park🛝🎡🎢
+# Theme-park🛝🎡🎢
 a basic php and html based web project 
 
 this project contains html and php backend based files , security by cloudflare , and hosted for free on infinityfree.com
